@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Email Request Classification and Processing System
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
